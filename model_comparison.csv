@@ -1,0 +1,8 @@
+Model,Accuracy,Precision Macro,Recall Macro,F1 Macro,Precision Weighted,Recall Weighted,F1 Weighted,Training Time,Inference Time,Confusion Matrix
+LogisticRegression_BagOfWords,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.025938987731933594,0.000522613525390625,results\LogisticRegression_BagOfWords_confusion_matrix.png
+LogisticRegression_TFIDF,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.2239084243774414,0.002324342727661133,results\LogisticRegression_TFIDF_confusion_matrix.png
+MultinomialNB_BagOfWords,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.10579943656921387,0.004050731658935547,results\MultinomialNB_BagOfWords_confusion_matrix.png
+MultinomialNB_TFIDF,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.12870025634765625,0.0026388168334960938,results\MultinomialNB_TFIDF_confusion_matrix.png
+LogisticRegression_C_0.1_TFIDF,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.20138263702392578,0.011345624923706055,results\LogisticRegression_C_0.1_TFIDF_confusion_matrix.png
+LogisticRegression_C_1_TFIDF,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.551642656326294,0.010310888290405273,results\LogisticRegression_C_1_TFIDF_confusion_matrix.png
+LogisticRegression_C_10_TFIDF,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.24774813652038574,0.0023212432861328125,results\LogisticRegression_C_10_TFIDF_confusion_matrix.png
